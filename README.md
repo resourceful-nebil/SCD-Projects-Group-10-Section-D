@@ -1,2 +1,2 @@
 # SCD-Projects-Group-10-Section-D
-SCD Projects and Figma Link
+Figma Link: [Health Hub Prototype]([URL](https://www.figma.com/design/npCoAy8VRN5iJQIh75598z/HealthHub?node-id=19-3216&p=f&t=jY7qIEBGhruofchb-0))
